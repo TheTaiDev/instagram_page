@@ -1,0 +1,15 @@
+html {
+  font-size: 62.5%;
+  line-height: 1.6rem;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+}
+:root {
+  --text-color: red;
+  --white-color: #ffffff;
+}
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Poppins, sans-serif;
+}
